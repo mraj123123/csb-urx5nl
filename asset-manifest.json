@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mraj123123.github.io/csb-urx5nl/static/css/main.7e800f51.chunk.css",
+    "main.js": "https://mraj123123.github.io/csb-urx5nl/static/js/main.b6cf87e7.chunk.js",
+    "main.js.map": "https://mraj123123.github.io/csb-urx5nl/static/js/main.b6cf87e7.chunk.js.map",
+    "runtime-main.js": "https://mraj123123.github.io/csb-urx5nl/static/js/runtime-main.6fbd623f.js",
+    "runtime-main.js.map": "https://mraj123123.github.io/csb-urx5nl/static/js/runtime-main.6fbd623f.js.map",
+    "static/js/2.d7387287.chunk.js": "https://mraj123123.github.io/csb-urx5nl/static/js/2.d7387287.chunk.js",
+    "static/js/2.d7387287.chunk.js.map": "https://mraj123123.github.io/csb-urx5nl/static/js/2.d7387287.chunk.js.map",
+    "index.html": "https://mraj123123.github.io/csb-urx5nl/index.html",
+    "static/css/main.7e800f51.chunk.css.map": "https://mraj123123.github.io/csb-urx5nl/static/css/main.7e800f51.chunk.css.map",
+    "static/js/2.d7387287.chunk.js.LICENSE.txt": "https://mraj123123.github.io/csb-urx5nl/static/js/2.d7387287.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fbd623f.js",
+    "static/js/2.d7387287.chunk.js",
+    "static/css/main.7e800f51.chunk.css",
+    "static/js/main.b6cf87e7.chunk.js"
+  ]
+}
